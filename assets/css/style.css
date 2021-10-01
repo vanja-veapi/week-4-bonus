@@ -93,7 +93,6 @@ p
 {
     font-size: 16px;
     line-height: 26px;
-    /* font-weight: 500; */
 }
 .first__card > .btn
 {
@@ -114,8 +113,6 @@ p
     box-shadow: none;
     border: 1px solid rgb(224, 214, 214);
     letter-spacing: 0.25px;
-
-    /* Dodao min width zbog uzvicnika */
     min-width: 100%;
 }
 .small__form
